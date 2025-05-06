@@ -1,10 +1,10 @@
 :root {
-    --primaryText: #fff;
-    --secondaryText: #ff015e;
-    --primary: rgba(156, 39, 176, .60);
-    --secondary: rgba(255, 1, 94, .60); 
-    --buttonHover: rgba(156, 39, 176, .40);
-    --smallButtonHover: rgba(0, 0, 0, .25);
+    --primaryText: #f4fafc;
+    --secondaryText: #ffa207;
+    --primary: rgba(108, 162, 216, .60);
+    --secondary: rgba(114, 51, 161, .60); 
+    --buttonHover: rgba(5, 55, 175, .40);
+    --smallButtonHover: rgba(0, 0, 0, .40);
 }
 
 html {
@@ -34,9 +34,9 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Edu QLD Beginner", cursive;
     line-height: 1.5;
-    font-size: 18px;
+    font-size: 23px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
